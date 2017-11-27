@@ -1,0 +1,24 @@
+{
+  "name": "frontend-tool-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "help-functions": "1.0.47",
+    "open": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad-74/frontend-tool-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad-74/frontend-tool-pattern/issues"
+  },
+  "homepage": "https://github.com/vlad-74/frontend-tool-pattern#readme"
+}
