@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "help-functions": "1.0.47",
+    "help-functions": "1.0.55",
     "open": "0.0.5"
   },
   "devDependencies": {},
