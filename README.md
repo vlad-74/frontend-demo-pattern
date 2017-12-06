@@ -1,7 +1,7 @@
 # ![#c5f015](https://placehold.it/15/c5f015/000000?text='') frontend-tool-pattern
 
 ## В КОМАНДНОЙ СТРОКЕ ПЕРЕЙТИ НА ...frontend-demo-pattern\patterns>
-## ЗАПУСТИТЬ ШАБЛОН ...frontend-demo-pattern\patterns>`node Observer_status/dir` 
+## ПРИМЕР КАК ЗАПУСТИТЬ ШАБЛОН ...frontend-demo-pattern\patterns>`node Observer_status/dir` 
 ## 1. ШАБЛОН `CONSTRUCTOR` - ИСПОЛЬЗУЕТСЯ ДЛЯ СОЗДАНИЯ ПОДОБНЫХ ОБЪЕКТОВ
 ## 2. ШАБЛОН `FACTORY` - ИСПОЛЬЗУЕТСЯ ДЛЯ СОЗДАНИЯ РАЗНООБРАЗНЫХ ОБЪЕКТОВ
 ## 3. ШАБЛОН `DECORATOR` - ИСПОЛЬЗУЕТСЯ ДЛЯ :
